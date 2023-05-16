@@ -1,10 +1,10 @@
 一、电脑硬件管理工具
 1.1 屏幕亮度管理工具 Twinkle Tray
-官网链接 ：Twinkle Tray: Brightness Slider for Windows
+官网链接 ：https://twinkletray.com/
 
 
 1.2 硬件检测工具 CPU-Z
-官网链接：DOWNLOADING CPU-Z_2.02-CN.EXE | CPUID
+官网链接：https://www.cpuid.com/downloads/cpu-z/cpu-z_2.02-cn.exe
 
 
 二、视频制作常用简易工具
@@ -12,19 +12,19 @@
 官网链接：https://lv.ulikecam.com/
 
 2.2 万兴喵影（视频剪辑软件）
-官网链接：万兴喵影2023_视频制作/编辑工具 (wondershare.cn)
+官网链接：https://miao.wondershare.cn/
 
 2.3录屏软件 OBS
 官网链接：https://obsproject.com/
 
 三、编程入门常用
 3.1 Ubuntu 桌面iOS镜像
-百度网盘分享：ubuntu-22.04.1-desktop-amd64.ios
+百度网盘分享：https://pan.baidu.com/s/1Z2fGoqKXq7WKZPHDcO_yNA?pwd=nq7z
 
-官网链接： Enterprise Open Source and Linux | Ubuntu
+官网链接： https://ubuntu.com/
 
 3.2 U盘制作工具
-百度网盘分享：balenaEtcher-Setup-1.5.115.exe
+百度网盘分享：https://pan.baidu.com/s/1P2556-UE1ABfX7hkDbkjDQ?pwd=z8i1
 
 3.3 Scientific Internet tools
 clash相关
@@ -47,24 +47,28 @@ Hneko云：https://hneko.site/
 3.4 IDE
 Dev-C++（适用于C\C++）
 
-Dev-Cpp古早版本（官方支持GBK编码的最后一版）：百度网盘分享：Dev-Cpp.5.11.TDM-GCC.4.9.2.Setup.exe
-Embarcadero Dev-C++版本（编辑页面不支持GBK编码，会造成中文乱码）：百度网盘分享：Embarcadero_Dev-Cpp_6.3_TDM-GCC 9.2_Setup.exe
-小熊猫C++版本支持GBK编码：官网链接：小熊猫C++ (gitee.io)
+Dev-Cpp古早版本（官方支持GBK编码的最后一版）：百度网盘分享：https://pan.baidu.com/s/1XgC7ItmU3_NRoktJPReYEg?pwd=inwt
+Embarcadero Dev-C++版本（编辑页面不支持GBK编码，会造成中文乱码）：百度网盘分享：https://pan.baidu.com/s/1fEzOKhyyCFZ9z5D7W3qHdg?pwd=tt52
+小熊猫C++版本支持GBK编码：官网链接：https://royqh1979.gitee.io/redpandacpp/
+
 Code::Blocks
 
-百度网盘分享windows版本： codeblocks-20.03-setup.exe
-百度网盘分享linux版本： codeblocks_20.03_amd64_oldstable.tar.xz
-官网链接： Code::Blocks
+百度网盘分享windows版本： https://pan.baidu.com/s/1eDkeDmSCbi0XVyHGfJho1Q?pwd=zpex
+百度网盘分享linux版本： https://pan.baidu.com/s/1VcqWBJvQrnVUWdsZ4peMyw?pwd=3p7c
+官网链接： https://www.codeblocks.org
+
 eclipse
 
-百度网盘分享windows版本：eclipse-inst-jre-win64.exe
-官网链接：The Community for Open Innovation and Collaboration | The Eclipse Foundation
+百度网盘分享windows版本：https://pan.baidu.com/s/1ZR43oqEBSTFrcRuAJcLBwQ?pwd=8j5r
+官网链接：https://www.eclipse.org
+
 Visual Studio
 
-官网链接： Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器
+官网链接： https://visualstudio.microsoft.com/zh-hans
+
 四、文本编辑器
 4.1 VSCode
-官网链接：Documentation for Visual Studio Code
+官网链接：https://code.visualstudio.com/docs/?dv=win
 
 4.2 Typora
 官网链接：https://typoraio.cn
@@ -92,18 +96,18 @@ snip是支持便捷插入Latex公式的在线编辑器 https://snip.mathpix.com
 官网链接：https://playgroundai.com
 
 5.2 dreamlike（AI绘图工具）
-官网链接：Free AI Art Generator, AI Art Maker | Stable Diffusion Online
+官网链接：https://dreamlike.art/
 
 5.3Lexica（AI绘图工具）
 官网链接：https://lexica.art
 
 5.4Heygen（AI视频工具）
-官网链接：AI Spokesperson Video Creator
+官网链接：https://app.heygen.com/
 
 5.5 一帧秒创（AI文案、绘图、视频）
-官网链接：一帧秒创 - 视频智能创作平台 - AI视频创作工具,在线一键智能视频创作
+官网链接：https://aigc.yizhentv.com/app/login?redirect_to=https%3A%2F%2Faigc.yizhentv.com%2Fapp
 
 5.6 ChatGPT（AI问答）
-官网链接：New chat (openai.com)
+官网链接：https://chat.openai.com/
 
-使用ChatGPT需要海外手机号注册账号，可以使用虚拟手机号：SMS-Activate是在线接受短信的虚拟号码服务
+使用ChatGPT需要海外手机号注册账号，可以使用虚拟手机号：SMS-Activate是在线接受短信的虚拟号码服务https://sms-activate.org/
